@@ -12,15 +12,11 @@ In this way, users of MFA can discover patterns, trends, artist trajectories and
 
 ## Data
 
-Cruically, the data used in MFA is preconfigured into the application from an existing dataset. This data includes: album name, album release year (1993-2024), album rating (1-10) and ranking, band/artist, and vinyl ownership.
+Crucially, the data used in MFA is preconfigured into the application from an existing dataset. This data includes: album name, album release year (1993-2024), album rating (1-10) and ranking, band/artist, and vinyl ownership.
 
-## 
-
-## 
 
 ## Functionality:
 
-## 
 
 Figure 1: MFA’s user interface, displaying \#1 albums 
 
