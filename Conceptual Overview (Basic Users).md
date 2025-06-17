@@ -2,7 +2,7 @@
 
 ## Overview
 
-	This overview covers information on the music analysis application ‘MyFavouriteAlbums’ from the perspective of a user that is interested in music data analysis. It is assumed that the reader has no interest or experience with coding for use of this application. This will include the application’s dataset, functionality and user interface, as well as tools required.
+This overview covers information on the music analysis application ‘MyFavouriteAlbums’ from the perspective of a user that is interested in music data analysis. It is assumed that the reader has no interest or experience with coding for use of this application. This will include the application’s dataset, functionality and user interface, as well as tools required.
 
 ## What is MyFavouriteAlbums (MFA)? 
 
@@ -22,7 +22,7 @@ Cruically, the data used in MFA is preconfigured into the application from an ex
 
 ## 
 
-	Figure 1: MFA’s user interface, displaying \#1 albums 
+Figure 1: MFA’s user interface, displaying \#1 albums 
 
 MFA currently supports 5 different views as indicated by the 5 different tabs. These include:
 
